@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Free Facebook Desktop", "Free Facebook Desktop\Free Facebook Desktop.vbproj", "{92C33F04-765E-424C-90C6-986C1BFC7C29}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Setup", "Setup\Setup.vbproj", "{6989C178-BE72-4861-B6A0-DBAADEE86094}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92C33F04-765E-424C-90C6-986C1BFC7C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C33F04-765E-424C-90C6-986C1BFC7C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C33F04-765E-424C-90C6-986C1BFC7C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C33F04-765E-424C-90C6-986C1BFC7C29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6989C178-BE72-4861-B6A0-DBAADEE86094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6989C178-BE72-4861-B6A0-DBAADEE86094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6989C178-BE72-4861-B6A0-DBAADEE86094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6989C178-BE72-4861-B6A0-DBAADEE86094}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
